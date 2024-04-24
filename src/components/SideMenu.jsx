@@ -2,17 +2,17 @@ function SideMenu() {
   return (
     <div className=" bg-slate-900 text-white ">
       <ul className="p-4 ">
-        <li className="mb-5 ">Home</li>
-        <li className="mb-5 ">Orders</li>
-        <li className="mb-5 ">Products</li>
-        <li className="mb-5 ">Delivery</li>
-        <li className="mb-5 ">Marketing</li>
-        <li className="mb-5 ">Analytics</li>
-        <li className="mb-5 ">Payouts</li>
-        <li className="mb-5 ">Discounts</li>
-        <li className="mb-5 ">Audience</li>
-        <li className="mb-5 ">Appeareance</li>
-        <li className="mb-5 ">Plugins</li>
+        <li className="mb-5 hover:bg-slate-700 p-4 ">Home</li>
+        <li className="mb-5 hover:bg-slate-700 p-4 ">Orders</li>
+        <li className="mb-5 hover:bg-slate-700 p-4 ">Products</li>
+        <li className="mb-5 hover:bg-slate-700 p-4">Delivery</li>
+        <li className="mb-5 hover:bg-slate-700 p-4">Marketing</li>
+        <li className="mb-5 hover:bg-slate-700 p-4">Analytics</li>
+        <li className="mb-5 hover:bg-slate-700 p-4">Payouts</li>
+        <li className="mb-5 hover:bg-slate-700 p-4">Discounts</li>
+        <li className="mb-5 hover:bg-slate-700 p-4">Audience</li>
+        <li className="mb-5 hover:bg-slate-700 p-4">Appeareance</li>
+        <li className="mb-5 hover:bg-slate-700 p-4">Plugins</li>
       </ul>
 
       <div className=" bg-slate-700 w-40 ml-20 rounded-md  h-20 ">
